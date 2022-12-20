@@ -187,4 +187,9 @@
         android:title="@string/display_vr_pref_title"
         android:fragment="com.android.settings.display.VrDisplayPreferencePicker" />
 
+    <Preference
+        android:key="additional_set"
+        android:title="@string/additionalset"
+        android:summary="@string/additionalsummary"
+        android:fragment="com.android.settings.custom.additionalset"/>
 </PreferenceScreen>

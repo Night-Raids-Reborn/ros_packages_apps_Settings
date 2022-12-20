@@ -12247,4 +12247,10 @@
     <!-- Hotspot client manager -->
     <string name="wifi_tether_client_list_title">Client List</string>
     <string name="wifi_tether_client_list_summary">Manage clients connected to hotspot</string>
+
+    <!-- ad-blocker -->
+    <string name="additionalsummary">Enable or disable addition</string>
+    <string name="additionalset">Addition settings</string>
+    <string name="hosts_block_title">Ad-block</string>
+    <string name="hosts_block_summary">Block ads with a modified hosts file. Turn off to use third party solutions or if apps cause issues.</string>
 </resources>

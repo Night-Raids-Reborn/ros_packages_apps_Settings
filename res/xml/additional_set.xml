@@ -16,19 +16,19 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
 
-    <com.dot.support.preferences.SystemPropSwitchPreference
+    <com.revengeos.settings.preference.SystemPropSwitchPreference
         android:key="persist.aicp.hosts_block"
         android:title="@string/hosts_block_title"
         android:summary="@string/hosts_block_summary"
         android:defaultValue="false" />
      
-    <com.dot.support.preferences.GlobalSettingSwitchPreference
+    <com.revengeos.settings.preference.GlobalSettingSwitchPreference
         android:key="pm_downgrade_allowed"
         android:title="@string/app_downgrade_title"
         android:summary="@string/app_downgrade_summary"
         android:defaultValue="false"/>
 
-    <com.dot.support.preferences.SecureSettingSwitchPreference
+    <com.revengeos.settings.preference.SecureSettingSwitchPreference
         android:key="window_ignore_secure"
         android:title="@string/ignore_window_secure_title"
         android:summary="@string/ignore_window_secure_summary"

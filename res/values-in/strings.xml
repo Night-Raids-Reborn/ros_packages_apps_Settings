@@ -4995,4 +4995,8 @@
     <!-- Signature Spoofing -->
     <string name="allow_signature_fake">Allow signature spoofing</string>
     <string name="allow_signature_fake_summary">Izinkan aplikasi melewati sistem keamanan dengan berpura-pura menjadi aplikasi lain</string>
+
+    <!-- Hotspot extras -->
+    <string name="tethering_allow_vpn_upstreams_title">Izinkan klien untuk menggunakan VPN</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Izinkan klien hotspot untuk menggunakan koneksi VPN perangkat ini untuk konektivitas upstream.</string>
 </resources>

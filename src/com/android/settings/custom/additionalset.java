@@ -50,7 +50,7 @@ import java.util.HashMap;
 import java.util.Collections;
 import com.android.internal.logging.nano.MetricsProto;
 
-import com.dot.support.preferences.SystemPropSwitchPreference;
+import com.revengeos.settings.preference.SystemPropSwitchPreference;
 
 public class additionalset extends SettingsPreferenceFragment
              implements Preference.OnPreferenceChangeListener {
